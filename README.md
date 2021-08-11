@@ -3,7 +3,7 @@
 ## I'm a FrontEnd Developer
 
 * 💪 I like to write code
-* 🎉 I love design application and music
+* 🎉 I love design application in [figma](https://www.figma.com/files/recent?fuid=928242962231742907)
 * 🥅 I am constantly learning new things
 * ⚡ I love learning frameworks
 * 🤹🏽 I like playing games
@@ -31,12 +31,15 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
 <br />
-<br />
+###  My latest designs:  
+
+- [An app for taking notes *.Todos*](https://www.figma.com/file/Mgw092MYymrKGloIslCGdK/Untitled?node-id=0%3A1)
+- [Live lyrics viewer app *.MyLyrics*](https://www.figma.com/file/jQkw0e4KWFkfuthCeKjUSY/MyLyrics?node-id=10%3A78)
+- [Simple tic tac toe game online *.XO*](https://www.figma.com/file/S1a1yKCAiWjS405wnCOJQ6/tic%2Ftac%2Ftoe?node-id=0%3A1)
 
 <details>
   <summary>:zap: Statistics:</summary>
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OctupusPrime&langs_count=8&layout=compact" />
-    <br />
     <br />
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=OctupusPrime&show_icons=true" />
 </details>
