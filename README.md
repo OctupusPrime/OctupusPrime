@@ -30,8 +30,9 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
-<br />
-###  My latest designs:  
+<br />  
+
+### My latest designs:  
 
 - [An app for taking notes *.Todos*](https://www.figma.com/file/Mgw092MYymrKGloIslCGdK/Untitled?node-id=0%3A1)
 - [Live lyrics viewer app *.MyLyrics*](https://www.figma.com/file/jQkw0e4KWFkfuthCeKjUSY/MyLyrics?node-id=10%3A78)
