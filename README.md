@@ -6,7 +6,7 @@
 * 🎉 I love design application in [figma](https://www.figma.com/files/recent?fuid=928242962231742907)
 * 🥅 I am constantly learning new things
 * ⚡ I love learning frameworks
-* 🤹🏽 I like playing games
+* 🤹🏽 I study at the university [Odessa Polytechnic](https://opu.ua/)
 
 ### Connect with me:
 
