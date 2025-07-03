@@ -1,3 +1,3 @@
 ### Hi there 👋, I'm Misha
 
-# I code, I break and fix things
+# I code, I break things, I fix things
